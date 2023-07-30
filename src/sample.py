@@ -5,13 +5,14 @@ from datetime import date
 import boto3
 import uuid
 import os
+#import AWS_ACCESS_KEY, AWS_SECRET_KEY from .env
 
 
 
 
 # Your AWS S3 credentials and bucket name
-AWS_ACCESS_KEY = 'AKIA3G3ULJIT7OPEFOAV'
-AWS_SECRET_KEY = 'yV3etsUyiwOJcHY41UlJ9PjYqQyFxCxztLnF01lU'
+AWS_ACCESS_KEY = {AWS_ACCESS_KEY}
+AWS_SECRET_KEY = {AWS_SECRET_KEY}
 S3_BUCKET_NAME = 'generated-orima-law-contracts'
 
 
