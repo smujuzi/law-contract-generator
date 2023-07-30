@@ -7,5 +7,6 @@ Installation
 ```
 pip install lxml
 pip install docx-mailmerge
+pip install boto3
 
 ```
